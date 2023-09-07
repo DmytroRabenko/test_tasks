@@ -51,12 +51,8 @@ nav{
     grid-template-columns: 5fr 2fr;
     grid-column-gap: 1.5rem;
 }
-  
-main{
-    min-height: 400px;
-}
 
-.sidebar{
+main, .sidebar{
     min-height: 400px;
 }
 
