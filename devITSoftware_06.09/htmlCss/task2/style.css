@@ -28,7 +28,7 @@ body{
     text-transform: uppercase;
 }
 
-/* Варіант створення Layout використовуючи Flexbox */
+/* Варіант створення Layout використовуючи Grid */
 
 header, nav, main, .sidebar, footer{
     border: 3px solid var(--color__black);
