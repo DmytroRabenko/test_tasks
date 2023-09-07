@@ -2,13 +2,11 @@ html{
     --color__white: rgb(255, 255, 255);
     --color__black: rgb(0, 0, 0);
 }
-
 *{
     padding: 0;
     margin: 0;
     box-sizing: border-box;
 }
-
 
 body{
     margin: 0 auto;
@@ -16,7 +14,7 @@ body{
 }
   
 .wrapper{
-    margin: 1.5rem auto;
+    margin: 0 auto;
     padding: 1.5rem;
     max-width: 1200px;
     box-sizing: content-box;

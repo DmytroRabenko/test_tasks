@@ -30,7 +30,6 @@ function objectToArray(obj) {
     return result;
 }
   
-  // Приклад використання:
 const inputObject = {
     name: 'developer',
     age: 5,
