@@ -61,7 +61,6 @@ function reliableMultiply(a, b) {
   }
 }
 
-
 try {
   console.log(reliableMultiply(8, 8));
 } catch (error) {
